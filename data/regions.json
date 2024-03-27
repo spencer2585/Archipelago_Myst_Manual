@@ -1,0 +1,25 @@
+{
+    "Myst": {
+        "connects_to": []
+    },
+
+    "Mechanical Age": {
+        "connects_to": ["Myst"],
+        "requires": "|Mechanical Age Book| AND |Mechanical Book Door| AND |Elevator| AND |Clock Tower Bridge|"
+    },
+
+    "Channelwood Age": {
+        "connects_to": ["Myst"],
+        "requires": "|Elevator| AND |Channelwood Age Book|"
+    },
+
+    "Selenitic Age": {
+        "connects_to": ["Myst"],
+        "requires": "|Selenitic Age Book| AND |Selenitic Train Door| AND |Elevator|"
+    },
+
+    "Stoneship Age": {
+        "connects_to": ["Myst"],
+        "requires": "|Stoneship Age Book| AND |Stoneship Book Door| AND |Elevator|"
+    }
+}

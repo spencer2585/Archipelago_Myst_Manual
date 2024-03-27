@@ -1,0 +1,207 @@
+[ 
+    { 
+        "name": "Clock Tower Bridge", 
+        "category": [
+            "Myst"
+        ],
+        "progression": true 
+    },
+    
+    { 
+        "name": "Spaceship Door", 
+        "category": [
+            "Door",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Myst Red Page", 
+        "category": [
+            "Page",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Myst Blue Page", 
+        "category": [
+            "Page",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "White Page", 
+        "category": [
+            "Page",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Observatory Door", 
+        "category": [
+            "Door",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    {
+        "name":"Power Station Door",
+        "category":[
+            "Door",
+            "Myst"
+        ],
+        "progression": true
+    },
+
+    { 
+        "name": "Elevator", 
+        "category": [
+            "Door",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Mechanical Age Book", 
+        "category": [
+            "Book",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Selenitic Age Book", 
+        "category": [
+            "Book",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Stoneship Age Book", 
+        "category": [
+            "Book",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Channelwood Age Book", 
+        "category": [
+            "Book",
+            "Myst"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Channelwood Red Page", 
+        "category": [
+            "Page",
+            "Channelwood"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Channelwood Blue Page", 
+        "category": [
+            "Page",
+            "Channelwood"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Selenitic Red Page", 
+        "category": [
+            "Page",
+            "Selenitic"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Selenitic Blue Page", 
+        "category": [
+            "Page",
+            "Selenitic"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Selenitic Train Door", 
+        "category": [
+            "Door",
+            "Selenitic"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Mechanical Red Page", 
+        "category": [
+            "Page",
+            "Mechanical"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Mechanical Blue Page", 
+        "category": [
+            "Page",
+            "Mechanical"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Mechanical Book Door", 
+        "category": [
+            "Door",
+            "Mechanical"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Stoneship Red Page", 
+        "category": [
+            "Page",
+            "Stoneship"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Stoneship Blue Page", 
+        "category": [
+            "Page",
+            "Stoneship"
+        ],
+        "progression": true 
+    },
+
+    { 
+        "name": "Stoneship Book Door", 
+        "category": [
+            "Door",
+            "Stoneship"
+        ],
+        "progression": true 
+    }
+]

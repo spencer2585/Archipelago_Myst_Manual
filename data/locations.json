@@ -1,0 +1,177 @@
+[
+    {
+        "name":"Dock Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Gear Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Obsevatory Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Rocket Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Fountain Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"PowerStation Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Clock Tower Lever",
+        "region":"Myst",
+        "category": ["Lever"],
+        "requires":"|Clock Tower Bridge|"
+    },
+
+    {
+        "name":"Shed Lever",
+        "region":"Myst",
+        "category": ["Lever"]
+    },
+
+    {
+        "name":"Clock Tower Bridge Puzzle",
+        "region":"Myst",
+        "category": ["Puzzle"],
+        "requires":"|Elevator|"
+    },
+
+    {
+        "name":"Clock Tower Puzzle",
+        "region":"Myst",
+        "category": ["Puzzle"],
+        "requires":"|Clock Tower Bridge| AND |Elevator|"
+    },
+
+    {
+        "name":"Myst Red Page",
+        "region":"Myst",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Myst Blue Page",
+        "region":"Myst",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"White Page",
+        "region":"Myst",
+        "category": ["Page"],
+        "requires":"|Clock Tower Bridge|"
+    },
+
+    {
+        "name":"Ship Puzzle",
+        "region":"Myst",
+        "category": ["Puzzle"],
+        "requires":"|Elevator| AND |Observatory Door|"
+    },
+
+    {
+        "name":"Obsevatory Puzzle",
+        "region":"Myst",
+        "category": ["Puzzle"],
+        "requires":"|Elevator| AND |Observatory Door|"
+    },
+
+    {
+        "name":"Spaceship Piano Puzzle",
+        "region":"Myst",
+        "category": ["Puzzle"],
+        "requires":"|Elevator| AND |Spaceship Door|"
+    },
+
+    {
+        "name":"PowerStation Puzzle",
+        "region":"Myst",
+        "category":["Puzzle"],
+        "requires":"|Power Station Door| AND |Elevator|"
+    },
+
+    {
+        "name":"Channelwood Red Page",
+        "region":"Channelwood Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Channelwood Blue Page",
+        "region":"Channelwood Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Selenitic Red Page",
+        "region":"Selenitic Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Selenitic Blue Page",
+        "region":"Selenitic Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Selenitic Radio Puzzle",
+        "region":"Selenitic Age",
+        "category": ["Puzzle"]
+    },
+
+    {
+        "name":"Mechanical Red Page",
+        "region":"Mechanical Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Mechanical Blue Page",
+        "region":"Mechanical Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Mechanical Book Lock Puzzle",
+        "region":"Mechanical Age",
+        "category": ["Puzzle"]
+    },
+
+    {
+        "name":"Stoneship Red Page",
+        "region":"Stoneship Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Stoneship Blue Page",
+        "region":"Stoneship Age",
+        "category": ["Page"]
+    },
+
+    {
+        "name":"Stoneship Compass Puzzle",
+        "region":"Stoneship Age",
+        "category": ["Puzzle"]
+    }
+]

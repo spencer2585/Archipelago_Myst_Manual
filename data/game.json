@@ -1,0 +1,10 @@
+{
+    "game": "Myst",
+    "player": "Spencer2585",
+    "filler_item_name": "Free Character of Your Choice",
+    "starting_items": [
+        {
+            "items": ["Myst Red Page","Myst Blue Page"]
+        }
+    ]
+}

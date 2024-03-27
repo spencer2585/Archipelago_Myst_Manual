@@ -1,7 +1,7 @@
 {
     "game": "Myst",
     "player": "Spencer2585",
-    "filler_item_name": "Free Character of Your Choice",
+    "filler_item_name": "Filler Item",
     "starting_items": [
         {
             "items": ["Myst Red Page","Myst Blue Page"]
